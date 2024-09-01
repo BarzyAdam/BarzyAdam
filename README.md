@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BarzyAdam
-- 🌱 I’m currently studying master in IT
+- 🌱 I am Senior software QA Engineer
 - 📫 How to reach me barzyadam@gmail.com
 
 <!---
